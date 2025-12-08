@@ -1,0 +1,23 @@
+id,activity,timestamp_epoch
+0,A_Create Application,1476201895
+1,W_Complete application__Created__SCHEDULE,1476201895
+2,W_Complete application__Obtained__START,1476201895
+3,A_Concept,1476201895
+4,A_Accepted,1476202283
+5,O_Create Offer,1476202683
+6,O_Created,1476202683
+7,O_Sent (mail and online),1476202692
+8,W_Complete application__Deleted__COMPLETE,1476202692
+9,W_Call after offers__Created__SCHEDULE,1476202692
+10,W_Call after offers__Obtained__START,1476202692
+11,A_Complete,1476202692
+12,W_Call after offers__Released__SUSPEND,1476202843
+13,W_Call after offers__Obtained__RESUME,1476716809
+14,W_Call after offers__Released__SUSPEND,1476716839
+15,O_Create Offer,1476793050
+16,O_Created,1476793050
+17,O_Sent (mail and online),1476793060
+18,A_Cancelled,1479452415
+19,O_Cancelled,1479452415
+20,O_Cancelled,1479452415
+21,W_Call after offers__Deleted__ATE_ABORT,1479452415

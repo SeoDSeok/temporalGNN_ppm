@@ -1,0 +1,113 @@
+id,activity,timestamp_epoch
+0,A_Create Application,1454490058
+1,W_Complete application__Created__SCHEDULE,1454490058
+2,W_Complete application__Obtained__START,1454490058
+3,A_Concept,1454490058
+4,A_Accepted,1454490522
+5,O_Create Offer,1454490865
+6,O_Created,1454490866
+7,O_Sent (mail and online),1454490878
+8,W_Complete application__Deleted__COMPLETE,1454490879
+9,W_Call after offers__Created__SCHEDULE,1454490879
+10,W_Call after offers__Obtained__START,1454490879
+11,A_Complete,1454490879
+12,W_Call after offers__Released__SUSPEND,1454491675
+13,W_Call after offers__Obtained__RESUME,1455010867
+14,W_Call after offers__Released__SUSPEND,1455010885
+15,W_Call after offers__Obtained__RESUME,1456905832
+16,W_Call after offers__Released__SUSPEND,1456905836
+17,W_Call after offers__Obtained__RESUME,1456907054
+18,W_Call after offers__Released__SUSPEND,1456907057
+19,W_Call after offers__Obtained__RESUME,1456907118
+20,O_Create Offer,1456907297
+21,O_Created,1456907299
+22,O_Sent (online only),1456907314
+23,W_Call after offers__Released__SUSPEND,1456907415
+24,O_Create Offer,1457520523
+25,O_Created,1457520525
+26,O_Sent (mail and online),1457520553
+27,W_Call after offers__Obtained__RESUME,1457792926
+28,W_Call after offers__Released__SUSPEND,1457792936
+29,W_Call after offers__Deleted__ATE_ABORT,1457952203
+30,W_Validate application__Created__SCHEDULE,1457952203
+31,W_Validate application__Obtained__START,1457952203
+32,A_Validating,1457952204
+33,W_Validate application__Released__SUSPEND,1457953282
+34,O_Returned,1457961073
+35,W_Validate application__Obtained__RESUME,1458109484
+36,W_Validate application__Obtained__START,1458109502
+37,W_Validate application__Released__SUSPEND,1458109507
+38,W_Validate application__Obtained__RESUME,1458204016
+39,W_Validate application__Obtained__START,1458206416
+40,W_Validate application__Released__SUSPEND,1458207039
+41,W_Validate application__Deleted__ATE_ABORT,1458208826
+42,W_Call incomplete files__Created__SCHEDULE,1458208826
+43,W_Call incomplete files__Obtained__START,1458208826
+44,A_Incomplete,1458208826
+45,W_Call incomplete files__Released__SUSPEND,1458208830
+46,W_Call incomplete files__Obtained__RESUME,1458213621
+47,W_Call incomplete files__Released__SUSPEND,1458214443
+48,W_Call incomplete files__Deleted__ATE_ABORT,1458301579
+49,W_Validate application__Created__SCHEDULE,1458301579
+50,W_Validate application__Obtained__START,1458301579
+51,A_Validating,1458301579
+52,W_Validate application__Released__SUSPEND,1458301586
+53,W_Validate application__Obtained__RESUME,1458305467
+54,W_Validate application__Deleted__COMPLETE,1458305546
+55,W_Call incomplete files__Created__SCHEDULE,1458305546
+56,W_Call incomplete files__Obtained__START,1458305546
+57,A_Incomplete,1458305546
+58,W_Call incomplete files__Released__SUSPEND,1458305717
+59,W_Call incomplete files__Obtained__RESUME,1458323776
+60,W_Call incomplete files__Released__SUSPEND,1458324110
+61,W_Call incomplete files__Obtained__RESUME,1458324116
+62,W_Call incomplete files__Released__SUSPEND,1458324184
+63,W_Call incomplete files__Obtained__RESUME,1461009049
+64,W_Call incomplete files__Released__SUSPEND,1461009083
+65,W_Call incomplete files__Obtained__RESUME,1461009143
+66,W_Call incomplete files__Released__SUSPEND,1461009550
+67,W_Call incomplete files__Deleted__ATE_ABORT,1461322121
+68,W_Validate application__Created__SCHEDULE,1461322121
+69,W_Validate application__Obtained__START,1461322121
+70,A_Validating,1461322121
+71,W_Validate application__Released__SUSPEND,1461322130
+72,W_Validate application__Obtained__RESUME,1461659121
+73,W_Validate application__Released__SUSPEND,1461659126
+74,W_Validate application__Obtained__RESUME,1461757280
+75,W_Validate application__Released__SUSPEND,1461758399
+76,W_Validate application__Obtained__RESUME,1461831457
+77,W_Validate application__Released__SUSPEND,1461832248
+78,W_Validate application__Obtained__RESUME,1461833670
+79,W_Validate application__Deleted__COMPLETE,1461834239
+80,W_Call incomplete files__Created__SCHEDULE,1461834239
+81,W_Call incomplete files__Obtained__START,1461834239
+82,A_Incomplete,1461834239
+83,W_Call incomplete files__Released__SUSPEND,1461834378
+84,W_Call incomplete files__Obtained__RESUME,1461835365
+85,W_Call incomplete files__Deleted__COMPLETE,1461835607
+86,W_Validate application__Created__SCHEDULE,1461835607
+87,W_Validate application__Obtained__START,1461835607
+88,A_Validating,1461835607
+89,W_Validate application__Released__SUSPEND,1461835613
+90,W_Validate application__Obtained__RESUME,1461910147
+91,W_Validate application__Released__SUSPEND,1461910171
+92,W_Validate application__Obtained__RESUME,1461910185
+93,W_Validate application__Released__SUSPEND,1461910191
+94,W_Validate application__Obtained__RESUME,1461917765
+95,W_Validate application__Deleted__COMPLETE,1461917823
+96,W_Call incomplete files__Created__SCHEDULE,1461917823
+97,W_Call incomplete files__Obtained__START,1461917823
+98,A_Incomplete,1461917823
+99,W_Call incomplete files__Deleted__COMPLETE,1461917877
+100,W_Validate application__Created__SCHEDULE,1461917877
+101,W_Validate application__Obtained__START,1461917877
+102,A_Validating,1461917878
+103,W_Validate application__Released__SUSPEND,1461917892
+104,W_Validate application__Obtained__RESUME,1461918051
+105,W_Validate application__Released__SUSPEND,1461918227
+106,W_Validate application__Obtained__RESUME,1461919743
+107,O_Accepted,1461920627
+108,A_Pending,1461920627
+109,W_Validate application__Deleted__COMPLETE,1461920627
+110,O_Cancelled,1461920627
+111,O_Cancelled,1461920627

@@ -25,5 +25,6 @@ Then, we get this folder structure
     - case_Application_235300
     ...
 ```
+Uploaded data is just sample data from bpi challenge 2017 (ocel)
 
 ## Model
