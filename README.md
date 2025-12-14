@@ -28,3 +28,24 @@ Then, we get this folder structure
 Uploaded data is just sample data from bpi challenge 2017 (ocel)
 
 ## Model
+We basically conducted the experiment using TGAT and compared it with the TGN model used in ICPM 2025. Below is an additional comparison model.
+
+- Simple Model
+    - MLP
+- Sequence Model
+    - LSTM
+    - GRU
+- Graph-based Model
+    - GGCN
+    - TGN
+- Transformer Model
+    - Process Transformer
+
+And we also conducted an ablation study.
+
+- w/o time encoding
+- w/o Context time
+- w/o Context
+- w/o Multi Head
+- w/o Activity embedding
+
